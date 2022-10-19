@@ -1,6 +1,5 @@
 package kz.flyingv.animatedstarscompose.meteor
 
-import android.util.Log
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
@@ -41,7 +40,7 @@ class Meteorite(
 
     fun draw(scope: DrawScope){
 
-        Log.d("METEOR DRAW", "DRAW AT $x $y")
+        //Log.d("METEOR DRAW", "DRAW AT $x $y")
 
         scope.drawCircle(
             color = color,

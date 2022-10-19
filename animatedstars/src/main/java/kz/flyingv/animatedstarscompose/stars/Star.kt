@@ -9,7 +9,6 @@ import androidx.compose.ui.graphics.drawscope.Fill
 import kotlin.random.Random
 
 class Star(
-    val id: Int,
     private val x: Float,
     private val y: Float,
     constraints: StarConstraints,
