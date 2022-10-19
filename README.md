@@ -4,6 +4,8 @@
 
 AnimatedStarsView for Jetpack Compose
 
+![Alt Text](https://raw.githubusercontent.com/flyingV805/AnimatedStarsCompose/main/readmeRes/preview.gif)
+
 Pure Jetpack Compose implementation of [AnimatedStarsView](https://github.com/sofakingforever/animated-stars-android)
 
 
